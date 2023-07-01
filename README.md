@@ -3,6 +3,7 @@ This is just a simple example of a KBC program in Python. There are many other f
 This is a simple text-based implementation of the popular game show Kaun Banega Crorepati, where players can answer multiple-choice questions to win virtual money. The program is written in Python and is designed to run in the console. It is a simple KBC game in Python. The game randomly selects a question from a list of questions and displays it to the user. The user then enters their answer and the program checks if it is correct. If the answer is correct, the user's score is incremented and the next question is displayed. If the answer is incorrect, the game ends.
 
 Game Rules
+
 1.The player starts with a virtual balance of Rs. 0.
 2.There are a total of 10 questions that need to be answered.
 3.question has four options, labeled A, B, C, and D.
@@ -15,9 +16,11 @@ I6.f the player gives an incorrect answer, the game ends and the player's final 
 7.The player can choose to quit the game at any time by entering 'Q' or 'q'.
 
 Prerequisites
+
 To run this program, you need to have Python 3 installed on your computer.
 
 How to Run
+
 -Download the 'kbc.py' file to your computer.
 -Open a terminal or command prompt and navigate to the directory where the file is saved.
 -Run the following command: python kbc.py.
